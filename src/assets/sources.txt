@@ -1,0 +1,6 @@
+All images can be found by typing "ghibli [file name]" in the search bar of the google image search.
+
+Examples:
+ghibli Logo
+ghibli Totoro Icon
+ghibli My Neighbor Totoro

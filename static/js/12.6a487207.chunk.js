@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[12],{81:function(i,s,o){"use strict";o.r(s),s.default=o.p+"static/media/Pom Poko.6202ab67.jpg"}}]);
+//# sourceMappingURL=12.6a487207.chunk.js.map

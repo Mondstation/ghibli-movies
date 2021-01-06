@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[16],{85:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Spirited Away.94481b7a.jpg"}}]);
+//# sourceMappingURL=16.cdb73c46.chunk.js.map

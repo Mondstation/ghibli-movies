@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[4],{73:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Castle in the Sky.174cfdf3.jpg"}}]);
+//# sourceMappingURL=4.b06eb504.chunk.js.map

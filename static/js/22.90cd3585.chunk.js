@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[22],{91:function(i,s,e){"use strict";e.r(s),s.default=e.p+"static/media/Whisper of the Heart.24746fb2.jpg"}}]);
+//# sourceMappingURL=22.90cd3585.chunk.js.map

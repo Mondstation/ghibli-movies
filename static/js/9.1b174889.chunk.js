@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[9],{78:function(i,s,o){"use strict";o.r(s),s.default=o.p+"static/media/My Neighbor Totoro.2a7d999f.jpg"}}]);
+//# sourceMappingURL=9.1b174889.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[10],{79:function(i,s,a){"use strict";a.r(s),s.default=a.p+"static/media/My Neighbors the Yamadas.f0f234da.jpg"}}]);
+//# sourceMappingURL=10.62aa74db.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[20],{89:function(i,s,e){"use strict";e.r(s),s.default=e.p+"static/media/The Wind Rises.5027b999.jpg"}}]);
+//# sourceMappingURL=20.5ccf6a85.chunk.js.map

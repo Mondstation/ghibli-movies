@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[5],{74:function(i,p,s){"use strict";s.r(p),p.default=s.p+"static/media/From Up on Poppy Hill.c4baf0b9.jpg"}}]);
+//# sourceMappingURL=5.cbfe6a51.chunk.js.map

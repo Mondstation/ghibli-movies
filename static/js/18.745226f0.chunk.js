@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[18],{87:function(i,s,e){"use strict";e.r(s),s.default=e.p+"static/media/The Cat Returns.032f6de3.jpg"}}]);
+//# sourceMappingURL=18.745226f0.chunk.js.map

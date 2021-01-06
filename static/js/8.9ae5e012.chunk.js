@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[8],{77:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/Kiki's Delivery Service.4a0dccaf.jpg"}}]);
+//# sourceMappingURL=8.9ae5e012.chunk.js.map

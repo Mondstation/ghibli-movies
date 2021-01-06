@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[14],{83:function(i,s,o){"use strict";o.r(s),s.default=o.p+"static/media/Porco Rosso.f1ea475b.jpg"}}]);
+//# sourceMappingURL=14.41d22c78.chunk.js.map

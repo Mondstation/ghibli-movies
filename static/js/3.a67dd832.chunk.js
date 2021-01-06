@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[3],{72:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/Arrietty.80f92c18.jpg"}}]);
+//# sourceMappingURL=3.a67dd832.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpghibli-movies"]=this["webpackJsonpghibli-movies"]||[]).push([[15],{84:function(i,s,e){"use strict";e.r(s),s.default=e.p+"static/media/Princess Mononoke.f603c499.jpg"}}]);
+//# sourceMappingURL=15.bebfe6cb.chunk.js.map

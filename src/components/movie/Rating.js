@@ -19,7 +19,7 @@ export default function MovieRating({
 
   useEffect(() => {
     setStars(calculateRenderedStars(value, maxValue, maxStars));
-  }, [value, maxValue, maxStars]);
+  }, [maxStars, value, maxValue]);
 
   if (displayStars) {
     return (

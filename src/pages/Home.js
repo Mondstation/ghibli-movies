@@ -1,9 +1,11 @@
 import React from "react";
+
 import PageContainer from "./Container";
 import StyledLink from "../components/StyledLink";
 import { Row, Col, Carousel, Image } from "react-bootstrap";
 
 import logo from "../assets/slideshow/Logo.jpg";
+
 import spiritedAway from "../assets/slideshow/Spirited Away Wallpaper.jpg";
 import totoro from "../assets/slideshow/Totoro Wallpaper.jpg";
 import ponyo from "../assets/slideshow/Ponyo Wallpaper.jpg";

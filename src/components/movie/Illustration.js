@@ -11,6 +11,8 @@ function MovieIllustration({ movie, component, extraClassNames }) {
       .catch(console.error);
   }, [movie]);
 
+  if (source == null) return <></>;
+
   return (
     <>
       {component ? (
